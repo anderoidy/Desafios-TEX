@@ -3,9 +3,9 @@ Pasta com atividades e desafios do curso T.EX
 
 
 # Fase 1
-*crie um array dinâmico com três posições [2,1,2]
-*crie uma iteração que retorne números aleatórios entre 1 e 3
-*a cada retorno, altere o valor do array respectivamente
+* crie um array dinâmico com três posições [2,1,2]
+* crie uma iteração que retorne números aleatórios entre 1 e 3
+* a cada retorno, altere o valor do array respectivamente
 
 # Fase 2
 * utilize as linhas já codificadas e insira em uma função
